@@ -1,1 +1,1 @@
-# EC1302_19EC302---Electronic-Devices-Laboratory
+# EC1302_19EC302-Electronic-Devices-Laboratory
