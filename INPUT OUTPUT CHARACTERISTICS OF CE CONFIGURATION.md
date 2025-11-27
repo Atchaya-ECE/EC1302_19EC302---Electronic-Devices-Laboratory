@@ -1,15 +1,10 @@
 # INPUT OUTPUT CHARACTERISTICS OF CE CONFIGURATION
 
 ## AIM: 
-
  To Plot the input and output characteristics of the transistor in CE mode, to determine the h - Parameters from the graph. 
-
  
 ## APPARATUS REQUIRED
-
 <img width="1011" height="476" alt="image" src="https://github.com/user-attachments/assets/5a2a4457-561e-4671-a074-c71acb757b7e" />
-
-
 
 ## THEORY
 A NPN function transistor consist of a silicon (or germanium) crystal in which a layer of p – type silicon is sandwiched between two layers of N – type silicon.  The arrow on emitter lead specifies the direction of the current flow when the emitter – base Junction is biased in the forward direction since the conductivity of the BJT depends on both the majority and minority carriers it is called bipolar device.  In CE configuration base is the i/p terminal, collector is the o/p terminal and emitter is common to both input and output.  The ratio of change in I<sub>c</sub> to change in base current Ib is known as Current amplification factor or current gain..
