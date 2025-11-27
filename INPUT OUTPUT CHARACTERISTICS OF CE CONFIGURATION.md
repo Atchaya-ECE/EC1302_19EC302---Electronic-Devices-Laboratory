@@ -16,6 +16,7 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 
 ![WhatsApp Image 2025-11-27 at 23 52 43_25f5f605](https://github.com/user-attachments/assets/0821f793-afc2-4068-b3aa-92b4c1d87c18)
 
+![WhatsApp Image 2025-11-27 at 23 36 29_a9b28c5c](https://github.com/user-attachments/assets/67ce9b59-b1b9-4dc4-8089-45ecc2bb0297)
 
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
