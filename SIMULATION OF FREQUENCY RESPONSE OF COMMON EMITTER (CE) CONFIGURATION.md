@@ -24,11 +24,12 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-
-
+<img width="1913" height="846" alt="Screenshot 2025-11-27 092855" src="https://github.com/user-attachments/assets/67d16559-ca49-49cf-be0c-02a4fd3cfd64" />
 
 ## OUTPUT GRAPH:
+<img width="1916" height="1016" alt="Screenshot 2025-11-26 214509" src="https://github.com/user-attachments/assets/ada4a9df-aa74-4493-a233-bea3e87b5af7" />
 
+![WhatsApp Image 2025-11-27 at 09 27 23_78aff002](https://github.com/user-attachments/assets/7330c049-2e32-4883-b676-b3888bdc68fa)
 
 ## RESULT:
 Thus the frequency response of common emitter configuration circuit using LT-spice is simulated and verified. 
