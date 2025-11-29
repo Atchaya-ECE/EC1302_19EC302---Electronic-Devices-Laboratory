@@ -44,30 +44,42 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 ![WhatsApp Image 2025-11-29 at 12 47 52_b8c2ff21](https://github.com/user-attachments/assets/8ef10e9b-bbd2-4f7d-9f2e-429010640cc9)
 
 ## Table 2-8
-![WhatsApp Image 2025-11-29 at 12 47 52_8a63d869](https://github.com/user-attachments/assets/e726d797-42a0-40a2-a42a-256aab08d779)
+![WhatsApp Image 2025-11-29 at 12 53 54_7bc751fc](https://github.com/user-attachments/assets/5ab05982-71a7-4852-800e-0dbf861e968e)
 
 ## Table 2-9
-![WhatsApp Image 2025-11-29 at 12 47 52_d4845efa](https://github.com/user-attachments/assets/00b96ecc-30f1-417c-a564-4953e61d5a81)
+![WhatsApp Image 2025-11-29 at 12 54 20_ef0221ee](https://github.com/user-attachments/assets/d11d1692-af54-463f-97a3-89203b4b38d0)
 
 ## Table 2-10
-![WhatsApp Image 2025-11-29 at 12 47 53_65852250](https://github.com/user-attachments/assets/d0ee762c-caa5-46d6-8603-f8a05b5b0aa7)
+![WhatsApp Image 2025-11-29 at 12 54 49_98352d3c](https://github.com/user-attachments/assets/a2e90dee-5be1-4a6f-bc62-536874a8441d)
 
 ## Table 2-11
-![WhatsApp Image 2025-11-29 at 12 47 53_ac19e36f](https://github.com/user-attachments/assets/04d9fbc1-e6f5-4ef3-92c2-9b7603b64ab4)
+![WhatsApp Image 2025-11-29 at 12 55 44_d1e036cb](https://github.com/user-attachments/assets/906e145e-b82c-4f32-8463-5844a9b4818c)
 
 ## 2.	Record resistor colors gave to its value in below :
 ## i) 4.7 KΩ ± 5%  
+![WhatsApp Image 2025-11-29 at 12 56 23_cae6e6ac](https://github.com/user-attachments/assets/550b8a83-3cf3-47bf-9371-010f25a3a35f)
 
 ## ii) 910 Ω ± 10%  
+![WhatsApp Image 2025-11-29 at 12 56 42_28bdb834](https://github.com/user-attachments/assets/7526ef23-aadf-4bd1-a197-25d6326b7b8c)
 
 ## iii) 12 KΩ ± 5%  
+![WhatsApp Image 2025-11-29 at 12 57 01_10d1956a](https://github.com/user-attachments/assets/42248f10-e9e7-45a0-a6ba-d5203c6d028d)
 
 ## iv) 6.8 KΩ ± 20%  
+![WhatsApp Image 2025-11-29 at 12 57 25_c5068929](https://github.com/user-attachments/assets/d924be97-8a2b-461b-9ead-177f98224a45)
 
 ## v) 47 KΩ ± 20%  
+![WhatsApp Image 2025-11-29 at 12 58 05_266d44bc](https://github.com/user-attachments/assets/5ce25a38-3a3c-4be9-8b1a-4f88dbc8ca8e)
 
 ## 3.	Find out the resistor value and tolerance of the 5 resistors provided using colour coding.
+![WhatsApp Image 2025-11-29 at 12 58 30_0bd8cc1b](https://github.com/user-attachments/assets/cc80957e-e293-421d-9575-2c31c35762e3)
 
+![WhatsApp Image 2025-11-29 at 12 58 56_fa4c1545](https://github.com/user-attachments/assets/7a490af3-c81e-42ee-867a-81e06bbc24e2)
 
+![WhatsApp Image 2025-11-29 at 12 59 25_8c2caab2](https://github.com/user-attachments/assets/a19fe861-823d-4f5a-8a81-157ad07f7afc)
+
+![WhatsApp Image 2025-11-29 at 12 59 48_9da863a1](https://github.com/user-attachments/assets/9de247cb-0722-4eef-8d0a-fecc71aa8419)
+
+![WhatsApp Image 2025-11-29 at 12 51 17_7375e7ee](https://github.com/user-attachments/assets/9a9a6d5d-1d48-4879-b632-5b17d8ca8d30)
 ## RESULT:
  Thus the resistor value and tolerance of the provided resistors were calculated successfully.
